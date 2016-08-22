@@ -1,4 +1,5 @@
-      [{
+
+      {
         "id": "1",
         "city": "Qal eh-ye Now",
         "city_ascii": "Qal eh-ye",
@@ -87738,4 +87739,3 @@
         "iso3": "BRA",
         "province": "Rio Grande do Norte"
       }
-]
